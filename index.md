@@ -1,3 +1,5 @@
 # <center> My Posts </center>
-![Trump]({{site.url}}/Images/trump_thumbs_up.jpg "Trump being Trump")
 
+# Should Trump be the President?
+![Trump]({{site.url}}/Images/trump_thumbs_up.jpg "Trump being Trump")
+[Click Here for More Information] ({{site.url}}/videos.md)
